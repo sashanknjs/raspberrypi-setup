@@ -17,6 +17,8 @@ This repository will help to setup a raspberry pi desktop from scratch and enabl
 
 ![image](https://github.com/sashanknjs/raspberrypi-vpn-server/assets/168824530/e4db8c6a-5a05-406c-83e6-2720833afc71)
 
+- Select your Raspberry Pi Model, The OS you want to install (Raspberry Pi OS (64 bit) is recommended), and the storage device into wich you want to load the image (which is the SD Card).
+
 - Before installing the OS, a few settings such as username and password, Wifi credentials and SSH options can be modified
 
 ![image](https://github.com/sashanknjs/raspberrypi-vpn-server/assets/168824530/e9278451-c6b4-411b-aae1-5f8c65a5fa55)
